@@ -1,0 +1,12 @@
+body {
+    background: #F8F0E5;
+}
+
+.custom-shadow {
+    box-shadow: 4px 4px 10px rgba(0, 0, 255, 0.1);
+}
+
+.custom-container {
+    background: #DAC0A3;
+    border-radius: 30px;
+}
